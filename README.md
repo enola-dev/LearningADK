@@ -4,5 +4,6 @@ Repo with examples for learning by example about [Google's Agent Development Kit
 
 ## Related
 
+* https://github.com/enola-dev/enola/tree/main/java/dev/enola/ai/adk related utilities
 * https://github.com/glaforge/adk-java-maven-template
 * https://github.com/glaforge/gemini-workshop-for-java-developers
