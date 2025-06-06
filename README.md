@@ -6,13 +6,23 @@ Repo with examples for learning by example about [Google's Agent Development Kit
 
 Obviously replacing _AI..._ with the secret obtained e.g. as described on https://docs.enola.dev/specs/aiuri/#google-ai:
 
-### Quickstart Dev Web
+### Quickstart
+
+#### Dev Web UI
 
     cd quickstart; GOOGLE_API_KEY=AI... ./run-web.sh
 
-### Quickstart CLI
+Now open <http://localhost:8080>...
+
+#### Quickstart CLI
 
     cd quickstart; GOOGLE_API_KEY=AI... ./run-cli.sh
+
+Now type a prompt on the console...
+
+### Simplest
+
+    cd simplest; GOOGLE_API_KEY=AI... ./run.sh Who are you?
 
 ## Related
 
