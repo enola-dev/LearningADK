@@ -1,2 +1,2 @@
-../mvnw exec:java \
+../mvnw compile exec:java \
     -Dexec.mainClass="agents.multitool.MultiToolAgent"
