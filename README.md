@@ -2,11 +2,16 @@
 
 Repo with examples for learning by example about [Google's Agent Development Kit](https://google.github.io/adk-docs/) (ADK).
 
-## Usage
+## Usages
 
-    cd quickstart; GOOGLE_API_KEY=AI... ./run.sh
+Obviously replacing _AI..._ with the secret obtained e.g. as described on https://docs.enola.dev/specs/aiuri/#google-ai:
 
-Obviously replacing _AI..._ with the secret obtained e.g. as described on https://docs.enola.dev/specs/aiuri/#google-ai.
+### Quickstart Dev Web
+
+    cd quickstart; GOOGLE_API_KEY=AI... ./run-web.sh
+
+### Quickstart CLI
+
 
 ## Related
 
