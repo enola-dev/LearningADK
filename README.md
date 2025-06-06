@@ -12,6 +12,7 @@ Obviously replacing _AI..._ with the secret obtained e.g. as described on https:
 
 ### Quickstart CLI
 
+    cd quickstart; GOOGLE_API_KEY=AI... ./run-cli.sh
 
 ## Related
 
