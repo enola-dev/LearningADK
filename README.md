@@ -31,7 +31,7 @@ This is most simplified version, without agents, just a prompt from a CLI argume
 ### JitPack
 
 This a variant of `simplest` which, instead of using a released ADK version from Maven Central,
-uses https://jitpack.io to fetch an unrelated revision (check out [its `pom.xml`](simplest/pom.xml) for how):
+uses https://jitpack.io to fetch an unrelated revision (check out [its `pom.xml`](jitpack/pom.xml) for how):
 
     cd simplest; GOOGLE_API_KEY=AI... ./run.sh Who are you?
 
