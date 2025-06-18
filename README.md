@@ -28,6 +28,13 @@ This is most simplified version, without agents, just a prompt from a CLI argume
 
     cd simplest; GOOGLE_API_KEY=AI... ./run.sh Who are you?
 
+### JitPack
+
+This a variant of `simplest` which, instead of using a released ADK version from Maven Central,
+uses https://jitpack.io to fetch an unrelated revision (check out [its `pom.xml`](simplest/pom.xml) for how):
+
+    cd simplest; GOOGLE_API_KEY=AI... ./run.sh Who are you?
+
 ### Ollama, via LangChain4j
 
 This is a preview of ADK's potential LangChain4j support, see
