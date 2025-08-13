@@ -42,6 +42,12 @@ or:
 
 and open <http://localhost:8080>.
 
+### SNAPSHOT
+
+This is a variant of `quickstart` which uses `-SNAPSHOT` ADK versions,
+which are not available on Maven Central, but can be locally `./mvnw clean install`
+after `git clone https://github.com/google/adk-java`.
+
 ### Ollama, via LangChain4j
 
 This is a preview of ADK's potential LangChain4j support, see
