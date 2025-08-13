@@ -25,12 +25,12 @@
     <dependency>
 	    <groupId>com.github.google.adk-java</groupId>
 	    <artifactId>google-adk</artifactId>
-	    <version>eabd446a42</version>
+	    <version>417a8bcf12</version>
 	</dependency>
     <dependency>
 	    <groupId>com.github.google.adk-java</groupId>
 	    <artifactId>google-adk-dev</artifactId>
-	    <version>eabd446a42</version>
+	    <version>417a8bcf12</version>
 	</dependency>
   </dependencies>
 </project>
