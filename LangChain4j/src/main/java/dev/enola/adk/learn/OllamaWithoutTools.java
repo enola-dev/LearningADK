@@ -28,7 +28,7 @@ public class OllamaWithoutTools {
                 .build();
         return LlmAgent.builder()
                 .name(NAME)
-                .model(new LangChain4j(ollama, "Ollama")) // .model("gemini-2.0-flash")
+                .model(new LangChain4j(ollama, "Ollama"))
                 .description("Ollama")
                 .build();
     }
