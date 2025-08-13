@@ -36,6 +36,12 @@ uses https://jitpack.io/#google/adk-java/ on https://jitpack.io to fetch an unre
 
     cd jitpack; GOOGLE_API_KEY=AI... ./run-cli.sh Who are you?
 
+or:
+
+    cd jitpack; GOOGLE_API_KEY=AI... ./run-web.sh
+
+and open <http://localhost:8080>.
+
 ### Ollama, via LangChain4j
 
 This is a preview of ADK's potential LangChain4j support, see
