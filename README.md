@@ -34,7 +34,7 @@ This a variant of `simplest` which, instead of using a released ADK version from
 uses https://jitpack.io/#google/adk-java/ on https://jitpack.io to fetch an unreleased revision
 (check out [its `pom.xml`](jitpack/pom.xml) for how):
 
-    cd jitpack; GOOGLE_API_KEY=AI... ./run.sh Who are you?
+    cd jitpack; GOOGLE_API_KEY=AI... ./run-cli.sh Who are you?
 
 ### Ollama, via LangChain4j
 
